@@ -1,0 +1,3 @@
+Answer this question: If you were to individually add code for a new feature to this published web page on the team’s website, how would you use GitHub version control to do that? Your answer should include terminology and concepts from the videos including branch, pull request, and merge.
+
+First, I could create a new branch separate from the master branch. Then, I would make all of the changes I need to make. After I have changed everything I needed to, I would try to commit and create a pull request to merge my new branch with the master branch.
